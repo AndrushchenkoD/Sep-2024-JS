@@ -1,0 +1,15 @@
+/*'wrap','collapse','alpha','beta'*/
+.wrap{
+    background: grey;
+    width: 200px;
+    height: 100px;
+}
+.collapse{
+    color: red;
+}
+.alpha{
+ font-size: 20px;
+}
+.beta{
+    font-style: italic;
+}

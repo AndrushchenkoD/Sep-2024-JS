@@ -110,6 +110,17 @@
 // ];
 // console.log(WeekTemperature[0]);
 
+// let WeekTemperature= {
+//     day1:{morning: '+17', afternoon: '+22', evening: '+20'},
+//     day2:{morning: '+16', afternoon: '+23', evening: '+19'},
+//     day3:{morning: '+18', afternoon: '+20', evening: '+19'},
+//     day4:{morning: '+19', afternoon: '+25', evening: '+21'},
+//     day5:{morning: '+13', afternoon: '+18', evening: '+17'},
+//     day6:{morning: '+12', afternoon: '+17', evening: '+16'},
+//     day7:{morning: '+15', afternoon: '+18', evening: '+15'},
+// };
+//
+// console.log(WeekTemperature.day1);
 
 // let WeekTemperature=[
 //     day1={morning:'+17',afternoon:'+22',evening:'+20'},
